@@ -5,7 +5,7 @@
 
 ## できること
 - プロジェクトの保存 / 読込
-- BDF / TTFの書出
+- BDF / TTF / WOFFの書出
 - 基本的なフォントの情報の編集
 - パーツによる文字の組立
 - プロジェクトファイルの結合(Merge)
@@ -43,6 +43,6 @@
 - [Web BDF/uInt array PIXEL FONT EDITOR](https://github.com/B4rt0/BDF-uInt-array-PIXEL-FONT-EDITOR) / B4rt0
 - [BitHangul](https://github.com/quiple/bithangul) / Minseo Lee
 
-## TTF-danger
-TTFの容量を小さくする実験
+## DangerPath
+アウトラインの容量を小さくする実験<br>
 小さい代わりに危険なパスを使用しているため、描画の保証なし。
