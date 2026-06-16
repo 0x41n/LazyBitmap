@@ -45,6 +45,9 @@
 - [Web BDF/uInt array PIXEL FONT EDITOR](https://github.com/B4rt0/BDF-uInt-array-PIXEL-FONT-EDITOR) / B4rt0
 - [BitHangul](https://github.com/quiple/bithangul) / Minseo Lee
 
+## 仕様ライブラリ
+- [zlib.js](https://github.com/imaya/zlib.js)
+
 ## DangerPath
 アウトラインの容量を小さくする実験<br>
 小さい代わりに危険なパスを使用しているため、描画の保証なし。
